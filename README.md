@@ -4,7 +4,7 @@ A web application which performs currency conversion using data fetched from an 
 
 ## **Description**
 
-This project requires to develop a web application which helps users facilitate currency conversion. This tool would be beneficial for both individuals and organizations who need to work with exchange rates, by allowing them to access to conversion rates between two specified currencies in the latest date or specific date. 
+This project requires to develop a web application that will perform currency conversion using data fetched from an open-source API [https://www.frankfurter.app/](https://www.frankfurter.app/). This tool would be beneficial for both individuals and organizations who need to work with exchange rates, by allowing them to access to conversion rates between two specified currencies in the latest date or specific date. 
 The data was fetched from an open-source API provided by Frankfurter. In this project, Streamlit was exploited to create the user-friendly Web Application. 
 
 ## **Project Structure**
