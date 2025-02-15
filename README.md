@@ -1,19 +1,20 @@
 # **Currency Converter Web Application**
 A web application which performs currency conversion using data fetched from an open-source API
-
+<br>
 
 ## **Description**
 
 This project requires to develop a web application that will perform currency conversion using data fetched from an open-source API [https://www.frankfurter.app/](https://www.frankfurter.app/). This tool would be beneficial for both individuals and organizations who need to work with exchange rates, by allowing them to access to conversion rates between two specified currencies in the latest date or specific date. 
-The data was fetched from an open-source API provided by Frankfurter. In this project, Streamlit was exploited to create the user-friendly Web Application. 
+The data was fetched from an open-source API provided by Frankfurter. In this project, Streamlit was exploited to create the user-friendly Web Application.<br>
+<br>
 
 ## **Project Structure**
 - `app.py`: main Streamlit python script used for managing users’ inputs and displaying results
 - `api.py`: python script that consists of code for making API calls
 - `frankfurter.py`: python script that consists of the functions used for calling relevant Frankfurter endpoints and extracting information.
 - `currency.py`: python script that contains the function used for formatting the results to be showed in the app.
-- `README.md`: markdown file 
-
+- `README.md`: markdown file<br>
+<br>
 
 ## **Set up and Installation**
 
@@ -44,8 +45,8 @@ streamlit run app.py
 
 ## **Environment details**
 - Python version: 3.11.3
-- Streamlit version: 1.26.0
-
+- Streamlit version: 1.26.0<br>
+<br>
 
 ## **Screenshot**
 
